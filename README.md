@@ -1,5 +1,13 @@
 # llm-learning
 
+## Setup
+
+```sh
+python3 -m venv venv
+source venv/bin/activate
+pip3 install torch numpy
+```
+
 ## Intro to LLMs
 
 - Tutorial on how to train an LLM: <https://www.youtube.com/watch?v=kCc8FmEb1nY>
